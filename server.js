@@ -33,7 +33,7 @@ if(env === 'development'){
     mongoose.connect('mongodb://localhost/meanstack');
 }
 else{
-    mongoose.connect('mongodb://sworthington:chadwick@ds031601.mongolab.com:31601/heroku_app33135315');
+    mongoose.connect('mongodb://sworthington:chadwick@ds031651.mongolab.com:31651/heroku_app33195170');
 }
 
 var db = mongoose.connection;
