@@ -1,0 +1,17 @@
+{
+  "name": "mean",
+  "version": "0.0.0",
+  "homepage": "https://github.com/scottaworthington/mean_stack_demo",
+  "description": "mean stack demo",
+  "authors": [
+    "scott worthington"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "toastr": "~2.1.0",
+    "angular": "~1.3.8",
+    "angular-resource": "~1.3.8",
+    "angular-route": "~1.3.8"
+  }
+}
